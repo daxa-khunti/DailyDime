@@ -5,20 +5,22 @@ DailyDime helps you track your expenses, manage budgets, and monitor your financ
 
 📱 Screenshots
 <p align="center">
-  <img src="screenshots/project5_1.png" alt="Screen 1" width="250"/>
-  <img src="screenshots/project5_2.png" alt="Screen 2" width="250"/>
-  <img src="screenshots/project5_3.png" alt="Screen 3" width="250"/>
-  <img src="screenshots/project5_4.png" alt="Screen 4" width="250"/>
+  <img src="screenshots/project5_1.jpg" alt="Screen 1" width="250"/>
+  <img src="screenshots/project5_2.jpg" alt="Screen 2" width="250"/>
+  <img src="screenshots/project5_3.jpg" alt="Screen 3" width="250"/>
+  <img src="screenshots/project5_4.jpg" alt="Screen 4" width="250"/>
+   <img src="screenshots/project5_5.jpg" alt="Screen 5" width="250"/>
 </p>
 <p align="center">
-  <img src="screenshots/project5_5.png" alt="Screen 5" width="250"/>
-  <img src="screenshots/project5_6.png" alt="Screen 6" width="250"/>
-  <img src="screenshots/project5_7.png" alt="Screen 7" width="250"/>
-  <img src="screenshots/project5_8.png" alt="Screen 8" width="250"/>
+ 
+  <img src="screenshots/project5_6.jpg" alt="Screen 6" width="250"/>
+  <img src="screenshots/project5_7.jpg" alt="Screen 7" width="250"/>
+  <img src="screenshots/project5_8.jpg" alt="Screen 8" width="250"/>
+  <img src="screenshots/project5_9.jpg" alt="Screen 9" width="250"/>
+  <img src="screenshots/project5_10.jpg" alt="Screen 10" width="250"/>
 </p>
 <p align="center">
-  <img src="screenshots/project5_9.png" alt="Screen 9" width="250"/>
-  <img src="screenshots/project5_10.png" alt="Screen 10" width="250"/>
+  
 </p>
 
 ✨ Key Highlights
